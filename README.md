@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[gmail]: mailto:youl20@protonmail.com
+[gmail]: youl20@protonmail.com
 [linkedin]: https://linkedin.com/in/joelsilva12
 
 <!--
