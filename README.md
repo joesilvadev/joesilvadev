@@ -21,6 +21,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [gmail]: youl20@protonmail.com
 [linkedin]: https://linkedin.com/in/joelsilva12
 
+[![Email](https://img.shields.io/badge/📧_Copiar_Email-Click_aquí-blue?style=for-the-badge)](mailto:tucorreo@ejemplo.com)
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
