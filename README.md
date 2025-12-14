@@ -5,13 +5,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/)**
+- **[Vulnerability Management Program Implementation](https://github.com/joesilvadev/vulnerability-management-program-Public)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/)**
-
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joesilvadev/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Port of Entry)](https://github.com/joesilvadev/threat-hunt-Port-of-Entry-)**
 <hr/>
 
 ## 🤳 Connect With Me
