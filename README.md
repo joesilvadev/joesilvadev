@@ -16,6 +16,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Windows Hardening Script (PowerShell)](https://github.com/joesilvadev/Windows-Hardening-Script)**
 
+## 🛡️ Projects
+
+- **[CyberNews Aggregator](https://github.com/joesilvadev/CyberNews-Aggregator)**
+
 <hr/>
 
 ## 🤳 Connect With Me
