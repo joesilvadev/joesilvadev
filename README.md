@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joesilvadev/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Port of Entry)](https://github.com/joesilvadev/threat-hunt-Port-of-Entry-)**
+- **[Threat Hunting Scenario (Cargo Hold)](https://github.com/joesilvadev/threat-hunt-Cargo-Hold-/)**
 
 ## </> Scripts Useful
 
